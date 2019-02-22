@@ -1,3 +1,3 @@
 # helau-world
-test test test
+test toast
 :o)
